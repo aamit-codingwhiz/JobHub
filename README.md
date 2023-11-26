@@ -1,1 +1,1 @@
-# JobHub
+JobHub is a comprehensive job board platform that connects job seekers with employers. It simplifies the job search and application process, offering an organized and user-friendly interface for both candidates and hiring managers. Job seekers can easily find and apply for relevant job listings, while employers can post job openings to reach a wide pool of potential candidates.
